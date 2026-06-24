@@ -1,3 +1,11 @@
+# IntelliJ IDEA loyiha sozlamalari
 .idea/
-out/out/
-*.class
+*.iml
+
+# Kompilyatsiya bo'lgan tayyor klasslar va papkalar
+out/
+gen/
+
+# Boshqa tizim fayllari
+.DS_Store
+Thumbs.db
