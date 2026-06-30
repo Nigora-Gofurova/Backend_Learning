@@ -1,0 +1,20 @@
+package Java_Loops_Tasks;
+
+import java.util.Scanner;
+
+public class Task_08 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print("a ni kiriting: ");
+        int a = input.nextInt();
+
+        System.out.print("b ni kiriting: ");
+        int b = input.nextInt();
+
+        for (int i = a + 1; i < b; i++) {
+            if (i % 2 != 0) {
+                System.out.println(i);
+            }
+        }
+    }
+}
