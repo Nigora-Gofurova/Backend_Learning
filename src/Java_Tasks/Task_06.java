@@ -16,7 +16,7 @@ public class Task_06 {
         for (int i = 0; i < n / 2; i++) {
 
             int temp = arr[i];
-            arr[i] = arr[n - 1 - i];
+            arr[i] = arr[n - 1];
             arr[n - 1 - i] = temp;
         }
         System.out.println("Teskari massiv :");
