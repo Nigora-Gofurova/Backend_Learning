@@ -40,7 +40,6 @@ public class Task_04 {
             }
         }
         double orta = (double) sum / n;
-
         System.out.println("Yig'indi: " + sum);
         System.out.println("O'rtacha: " + orta);
         System.out.println("Maksimum: " + max);

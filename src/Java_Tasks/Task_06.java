@@ -19,6 +19,7 @@ public class Task_06 {
             arr[i] = arr[n - 1];
             arr[n - 1 - i] = temp;
         }
+
         System.out.println("Teskari massiv :");
 
         for (int i = 0; i < n; i++) {
