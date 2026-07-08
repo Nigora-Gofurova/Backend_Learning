@@ -25,15 +25,13 @@ public class Task_03 {
                     arr[j + 1] = temp;
 
                 }
-
-
+            }
+            System.out.println("Tartiblangan massiv:");
+        }
+            for (int i = 0; i < arr.length; i++) {
+                System.out.print(arr[i] + " ");
+            }
 
         }
-        System.out.println("Tartiblangan massiv:");
-
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
-        }
-
     }
-}
+
