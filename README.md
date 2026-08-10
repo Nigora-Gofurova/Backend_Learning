@@ -1,48 +1,89 @@
 # Problem Solving Day 5
 
-## Tasks
+Task1
 
- ### Task 01
-1 dan 999 gacha bolgan sonlarning xonalar sonini aniqlash
+1 dan 999 gacha bolgan sonning necha xonali ekanligini aniqlaydi
 
-### Task 02
-Uchta son orasidagi ortacha sonni aniqlash
+---
 
-### Task 03
-Uchta son osish tartibida bolsa ularni ikkilantirish aks holda ishorasini ozgartirish
+Task2
 
-### Task 04
-a va b sonlari teng bolmasa ularning yigindisini a va b ga ozlashtirish aks holda 0 ozlashtirish
+3 ta son ichidan ortadagi sonni topadi
 
-### Task 05
-Oy raqamiga qarab uning qaysi faslga tegishli ekanligini aniqlash
+---
 
-### Task 06
-1 dan 7 gacha bolgan songa mos hafta kunini chiqarish
+Task3
 
-### Task 07
-Berilgan oy raqamiga qarab shu oyda nechta kun borligini aniqlash
+3 ta son osish tartibida bolsa ularni 2 ga kopaytiradi aks holda ishorasini ozgartiradi
 
-### Task 08
-20 dan 69 gacha bolgan yoshni sozlarda ifodalash
+---
 
-### Task 09
-1 dan 100 gacha bolgan toq va juft sonlarni alohida chiqarish
+Task4
 
-### Task 10
-a dan b gacha bolgan sonlar bilan ishlash
+2 ta son teng bolmasa ularning yigindisini ikkala songa beradi aks holda ikkala sonni 0 qiladi
 
-### Task 11
-a va b orasidagi barcha butun sonlarning yigindisini hisoblash
+---
 
-### Task 12
-Berilgan a sonining n darajasini aniqlash
+Task5
 
-### Task 13
-a dan b gacha bolgan barcha sonlarning kopaytmasini hisoblash
+Berilgan oy raqamiga qarab qaysi fasl ekanligini aniqlaydi
 
-### Task 14
-1 dan 100 gacha bolgan 3 ga bolinadigan va 5 ga bolinmaydigan toq sonlar yigindisini hisoblash
+---
 
-### Task 15
-Berilgan son 3 ning darajasi ekanligini aniqlash
+Task6
+
+Berilgan raqamga mos hafta kunini chiqaradi
+
+---
+
+Task7
+
+Berilgan oyda nechta kun borligini aniqlaydi
+
+---
+
+Task8
+
+20 dan 69 gacha bolgan yoshni soz bilan chiqaradi
+
+---
+
+Task9
+
+1 dan 100 gacha bolgan toq va juft sonlarni alohida chiqaradi
+
+---
+
+Task10
+
+Berilgan a sonini b marta chiqaradi
+
+---
+
+Task11
+
+a va b orasidagi sonlarning yigindisini hisoblaydi
+
+---
+
+Task12
+
+Berilgan a sonining n darajasini hisoblaydi
+
+---
+
+Task13
+
+a dan b gacha bolgan sonlarning kopaytmasini hisoblaydi
+
+---
+
+Task14
+
+1 dan 100 gacha bolgan toq sonlardan 3 ga bolinadigan va 5 ga bolinmaydigan sonlar yigindisini hisoblaydi
+
+---
+
+Task15
+
+Berilgan son 3 ning darajasi ekanligini aniqlaydi
