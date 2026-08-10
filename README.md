@@ -1,89 +1,48 @@
-# Problem Solving Day 4
+# Problem Solving Day 5
 
-Task1
+## Tasks
 
-Uch xonali son ichidan eng katta raqamni topadi.
+ ### Task 01
+1 dan 999 gacha bolgan sonlarning xonalar sonini aniqlash
 
----
+### Task 02
+Uchta son orasidagi ortacha sonni aniqlash
 
-Task2
+### Task 03
+Uchta son osish tartibida bolsa ularni ikkilantirish aks holda ishorasini ozgartirish
 
-Berilgan yoshni so'z bilan chiqaradi.
+### Task 04
+a va b sonlari teng bolmasa ularning yigindisini a va b ga ozlashtirish aks holda 0 ozlashtirish
 
----
+### Task 05
+Oy raqamiga qarab uning qaysi faslga tegishli ekanligini aniqlash
 
-Task3
+### Task 06
+1 dan 7 gacha bolgan songa mos hafta kunini chiqarish
 
-3 ta son ichidan faqat 2 tasi musbat bo'lsa yig'indisini, aks holda ko'paytmasini chiqaradi.
+### Task 07
+Berilgan oy raqamiga qarab shu oyda nechta kun borligini aniqlash
 
----
+### Task 08
+20 dan 69 gacha bolgan yoshni sozlarda ifodalash
 
-Task4
+### Task 09
+1 dan 100 gacha bolgan toq va juft sonlarni alohida chiqarish
 
-4 ta son ichidan eng katta va eng kichik sonni aniqlaydi.
+### Task 10
+a dan b gacha bolgan sonlar bilan ishlash
 
----
+### Task 11
+a va b orasidagi barcha butun sonlarning yigindisini hisoblash
 
-Task5
+### Task 12
+Berilgan a sonining n darajasini aniqlash
 
-3 ta sonning ko'paytmasini hisoblaydi.
+### Task 13
+a dan b gacha bolgan barcha sonlarning kopaytmasini hisoblash
 
----
+### Task 14
+1 dan 100 gacha bolgan 3 ga bolinadigan va 5 ga bolinmaydigan toq sonlar yigindisini hisoblash
 
-Task6
-
-21 ga eng yaqin sonni topadi.
-
----
-
-Task7
-
-Berilgan yilning asrini aniqlaydi.
-
----
-
-Task8
-
-3 ta son orasida 2 ta sonning yig'indisi uchinchi songa tengligini tekshiradi.
-
----
-
-Task9
-
-3 ta son ichidan eng katta ikkitasini chiqaradi.
-
----
-
-Task10
-
-Ikki sondan biri ikkinchisining kvadrati ekanligini tekshiradi.
-
----
-
-Task11
-
-5 ta son ichidan toq musbat sonlar yig'indisini hisoblaydi.
-
----
-
-Task12
-
-Sonlar o'sish yoki kamayish tartibida bo'lsa 2 ga ko'paytiradi.
-
----
-
-Task13
-
-Musbat, manfiy va 0 sonlar bilan berilgan shart bo'yicha ishlaydi.
-
----
-
-Task14
-
-3 ta son orasida nechta musbat son borligini aniqlaydi.
-
----
-
-Task15
-
-Ikkita sondan avval kattasini, keyin kichigini chiqaradi.
+### Task 15
+Berilgan son 3 ning darajasi ekanligini aniqlash
