@@ -1,89 +1,89 @@
-# Problem Solving Day 5
+# Problem Solving Day 7
 
 Task1
 
-1 dan 999 gacha bolgan sonning necha xonali ekanligini aniqlaydi
+N ga qarab sonlarni diagonal qilib chiqarish
 
 ---
 
 Task2
 
-3 ta son ichidan ortadagi sonni topadi
+N ga qarab sonlarni teskari tartibda diagonal qilib chiqarish
 
 ---
 
 Task3
 
-3 ta son osish tartibida bolsa ularni 2 ga kopaytiradi aks holda ishorasini ozgartiradi
+Berilgan son tub sonmi yoki yoqmi tekshirish
 
 ---
 
 Task4
 
-2 ta son teng bolmasa ularning yigindisini ikkala songa beradi aks holda ikkala sonni 0 qiladi
+Berilgan son murakkab sonmi yoki yoqmi tekshirish
 
 ---
 
 Task5
 
-Berilgan oy raqamiga qarab qaysi fasl ekanligini aniqlaydi
+2 dan 9 gacha karra jadvallarini while bilan chiqarish
 
 ---
 
 Task6
 
-Berilgan raqamga mos hafta kunini chiqaradi
+Faqat toq sonlarning karra jadvallarini chiqarish
 
 ---
 
 Task7
 
-Berilgan oyda nechta kun borligini aniqlaydi
+Faqat juft sonlarning karra jadvallarini chiqarish
 
 ---
 
 Task8
 
-20 dan 69 gacha bolgan yoshni soz bilan chiqaradi
+N ga qarab yulduzchalardan shakl chiqarish
 
 ---
 
 Task9
 
-1 dan 100 gacha bolgan toq va juft sonlarni alohida chiqaradi
+N ga qarab ichi bosh kvadrat shaklini chiqarish
 
 ---
 
 Task10
 
-Berilgan a sonini b marta chiqaradi
+N ga qarab yulduzchalardan H shaklini chiqarish
 
 ---
 
 Task11
 
-a va b orasidagi sonlarning yigindisini hisoblaydi
+N ga qarab yulduzchalardan X shaklini chiqarish
 
 ---
 
 Task12
 
-Berilgan a sonining n darajasini hisoblaydi
+N ga qarab sonlarni kamaytirib uchburchak shaklida chiqarish
 
 ---
 
 Task13
 
-a dan b gacha bolgan sonlarning kopaytmasini hisoblaydi
+N ga qarab yulduzchalardan togri tortburchak shaklini chiqarish
 
 ---
 
 Task14
 
-1 dan 100 gacha bolgan toq sonlardan 3 ga bolinadigan va 5 ga bolinmaydigan sonlar yigindisini hisoblaydi
+N ga qarab yulduzchalarni kamaytirib chiqarish
 
 ---
 
 Task15
 
-Berilgan son 3 ning darajasi ekanligini aniqlaydi
+N ga qarab yulduzchalarni kopaytirib uchburchak shaklida chiqarish
