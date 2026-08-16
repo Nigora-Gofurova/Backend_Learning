@@ -1,89 +1,89 @@
-# Problem Solving Day 8
+# Problem Solving Day 8.
 
 Task1
 
-N ga qarab sonlarni diagonal qilib chiqarish
+N soni asosida sonlarni diagonal korinishida chiqaradi
 
 ---
 
 Task2
 
-N ga qarab sonlarni teskari tartibda diagonal qilib chiqarish
+N soni asosida sonlarni teskari diagonal korinishida chiqaradi
 
 ---
 
 Task3
 
-Berilgan son tub sonmi yoki yoqmi tekshirish
+Berilgan N sonining tub yoki tub emasligini aniqlaydi
 
 ---
 
 Task4
 
-Berilgan son murakkab sonmi yoki yoqmi tekshirish
+Berilgan N sonining murakkab yoki murakkab emasligini aniqlaydi
 
 ---
 
 Task5
 
-2 dan 9 gacha karra jadvallarini while bilan chiqarish
+While orqali 2 dan 9 gacha karra jadvallarni chiqaradi
 
 ---
 
 Task6
 
-Faqat toq sonlarning karra jadvallarini chiqarish
+While orqali toq sonlarning karra jadvallarini chiqaradi
 
 ---
 
 Task7
 
-Faqat juft sonlarning karra jadvallarini chiqarish
+While orqali juft sonlarning karra jadvallarini chiqaradi
 
 ---
 
 Task8
 
-N ga qarab yulduzchalardan shakl chiqarish
+N soni asosida yulduzchalardan kvadrat shakl chiqaradi
 
 ---
 
 Task9
 
-N ga qarab ichi bosh kvadrat shaklini chiqarish
+N soni asosida ichi bosh kvadrat shakl chiqaradi
 
 ---
 
 Task10
 
-N ga qarab yulduzchalardan H shaklini chiqarish
+N soni asosida yulduzchalardan H shaklini chiqaradi
 
 ---
 
 Task11
 
-N ga qarab yulduzchalardan X shaklini chiqarish
+N soni asosida yulduzchalardan X shaklini chiqaradi
 
 ---
 
 Task12
 
-N ga qarab sonlarni kamaytirib uchburchak shaklida chiqarish
+N soni asosida sonlardan teskari uchburchak shakl chiqaradi
 
 ---
 
 Task13
 
-N ga qarab yulduzchalardan togri tortburchak shaklini chiqarish
+N soni asosida yulduzchalardan togritortburchak shakl chiqaradi
 
 ---
 
 Task14
 
-N ga qarab yulduzchalarni kamaytirib chiqarish
+N soni asosida yulduzchalardan kamayib boruvchi shakl chiqaradi
 
 ---
 
 Task15
 
-N ga qarab yulduzchalarni kopaytirib uchburchak shaklida chiqarish
+N soni asosida yulduzchalardan osib boruvchi uchburchak shakl chiqaradi
