@@ -1,16 +1,20 @@
-## Masalalar ro'yxati:
-1. Kamayib boruvchi yulduzchalar chiqarish.
-2. Kvadrat shaklidagi ramka chizish.
-3. Ikki sonning EKUBini topish.
-4. Musbat sonlar sonini sanash (0 yoki manfiy son kelguncha).
-5. Ikki sonning EKUKini topish.
-6. Ham EKUB, ham EKUKni birga topish.
-7. Kasrli qator yig'indisini hisoblash ($S = 1 + 1/2 + \dots + 1/n$).
-8. Oraliqdagi sonlarni o'z qiymaticha takrorlab chiqarish.
-9. `@` belgisi yordamida o'suvchi piramida yasash.
-10. Berilgan songacha bo'lgan tub sonlarni topish.
-11. X shaklidagi raqamlar matritsasini chiqarish.
-12. Ichki qismi bo'sh kvadrat chiqarish.
-13. X shaklidagi yulduzchalar naqshini chiqarish.
-14. Musbat sonlar yig'indisini hisoblash (0 kiritilguncha).
-15. Satr (`String`) ichidagi `*` belgilarining sonini sanash.
+# Day 10 Problem solving
+
+1. Raqamlar 8 tadan ko'p bo'lsa PDP, aks holda ACADEMY.
+2. Raqamlar yig'indisini topish.
+3. Kabisa yilini tekshirish.
+4. Raqam va harflarni sanash.
+5. Mukammal sonni tekshirish.
+6. Katta va kichik harflarni almashtirish.
+7. Parolni shartlar bo'yicha tekshirish.
+8. Katta harflarni '*' ga o'zgartirish.
+9. Gipotenuza, yuza va perimetrni topish.
+10. Harflar sonini aniqlash.
+11. Kvadrat son ekanligini tekshirish.
+12. Harf bo'lmagan belgilarni chiqarish.
+13. Darajani hisoblash (Math'siz).
+14. Butun qism va qoldiqni topish.
+15. Satrni teskari qilish.
+16. Katta va kichik harflarni taqqoslash.
+17. 7 soniga bog'liqligini tekshirish.
+18. Raqam bo'lmaganlarni chiqarish.
