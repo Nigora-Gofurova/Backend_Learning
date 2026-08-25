@@ -5,7 +5,7 @@
 4. Musbat sonlar sonini sanash (0 yoki manfiy son kelguncha).
 5. Ikki sonning EKUKini topish.
 6. Ham EKUB, ham EKUKni birga topish.
-7. Kasrli qator yig'indisini hisoblash ($S = 1 + 1/2 + \dots + 1/n$).
+7. Kasrli qator yig'indisini hisoblash (S = 1 + 1/2 + \dots + 1/n).
 8. Oraliqdagi sonlarni o'z qiymaticha takrorlab chiqarish.
 9. `@` belgisi yordamida o'suvchi piramida yasash.
 10. Berilgan songacha bo'lgan tub sonlarni topish.
