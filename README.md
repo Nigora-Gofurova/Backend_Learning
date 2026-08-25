@@ -1,20 +1,17 @@
-# Day 10 Problem solving
+# Day 11 - Problem Solving
 
-1. Raqamlar 8 tadan ko'p bo'lsa PDP, aks holda ACADEMY.
-2. Raqamlar yig'indisini topish.
-3. Kabisa yilini tekshirish.
-4. Raqam va harflarni sanash.
-5. Mukammal sonni tekshirish.
-6. Katta va kichik harflarni almashtirish.
-7. Parolni shartlar bo'yicha tekshirish.
-8. Katta harflarni '*' ga o'zgartirish.
-9. Gipotenuza, yuza va perimetrni topish.
-10. Harflar sonini aniqlash.
-11. Kvadrat son ekanligini tekshirish.
-12. Harf bo'lmagan belgilarni chiqarish.
-13. Darajani hisoblash (Math'siz).
-14. Butun qism va qoldiqni topish.
-15. Satrni teskari qilish.
-16. Katta va kichik harflarni taqqoslash.
-17. 7 soniga bog'liqligini tekshirish.
-18. Raqam bo'lmaganlarni chiqarish.
+1. Juft o'rindagi belgilarni chiqarish.
+2. Bo'luvchilar ko'paytmasini topish.
+3. Palindrom sonni tekshirish.
+4. Unli harflarni '*' ga almashtirish.
+5. Undosh harflarni '+' ga almashtirish.
+6. ASCII bo'yicha keyingi simvolga almashtirish.
+7. Harf, raqam va belgilar soni tengligini tekshirish.
+8. Birinchi, o'rta va oxirgi belgilarni chiqarish.
+9. Belgining turini aniqlash (RAQAM, HARF, SIMVOL).
+10. N ta belgidan iborat satr hosil qilish.
+11. ASCII kodi n ga teng belgini chiqarish.
+12. Satrdagi raqamlardan EKUB va EKUK topish.
+13. Harf va raqamlar soni tengligini tekshirish.
+14. Satr uzunligi yarmi belgilarga tengligini tekshirish.
+
