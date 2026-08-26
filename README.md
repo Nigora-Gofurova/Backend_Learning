@@ -1,18 +1,22 @@
-# Day 12 - Problem Solving
+# Day 13 - Problem Solving
 
-1. Birinchi n ta katta lotin harfini chiqarish.
-2. N ta kichik lotin harfini teskari  chiqarish.
-3. Satrning birinchi va oxirgi belgilari bir xilligini bilish.
-4. 1-100 gacha sonlarni so'z ko'rinishida chiqarish.
-5. 3 ga bo'linib, 5 ga bo'linmaydigan sonlar yig'indisi 1-100 gacha.
-6. O'nlar va birlar xonasi 1 taga farq qiladigan ikki xonali sonlar.
-7. 200-800 orasidagi hamma raqami toq bo'lgan sonlar.
-8. Raqamlar yig'indisi 5 ga teng bo'lgan ikki xonali sonlar.
-9. 100-900 orasida 3 ga bo'linib, 6 ga bo'linmaydigan sonlar.
-10. Sonning necha xonali ekanligini sikl orqali topish.
-11. N songacha bo'lgan sonlarning kvadrat ildizini chiqarish.
-12. 100-900 orasida 3 ga bo'linib, 6 ga bo'linmaydigan sonlar yig'indisi.
-13. O'nlar xonasi 7 yoki 9 bo'lgan uch xonali sonlar.
-14. S = 1 + 1/2 + 1/3 + ... + 1/n yig'indini hisoblash.
-15. 1-100 gacha toq va juft sonlarni alohida qatorda chiqarish.
-16. Dollarni so'mga o'tkazish jadvali (10 dan 40 gacha).
+1. 1 dan n gacha sonlarning kublarini chiqarish.
+2. Uch xonali sonlar ichida kamida 2 ta raqami bir xil bo'lgan sonlar.
+3. Ikki xonali sonlar ichida raqamlari yig'indisi 9 yoki 15 ga teng sonlar.
+4. Uch xonali sonlar ichida raqamlar yig'indisi 5 ga teng sonlar.
+5. S sonining N-darajasini hisoblash (matematik kutubxonasiz, ichma-ich sikllar bilan).
+6. Kiritilgan N asosida ortib boruvchi sonlar shaklini chiqarish (5, 56, 567, 5678).
+7. Kiritilgan N asosida zinapoyasimon "1" shaklini chiqarish.
+8. To'g'ri burchakli uchburchakning gipotenuzasi va perimetrini hisoblash.
+9. 2 dan 9 gacha to'liq karra jadvalini chiqarish.
+10. Kiritilgan N asosida "+" belgilaridan xoch shaklini chiqarish.
+11. N sonining tub yoki tub emasligini aniqlash.
+12. n sonigacha bo'lgan barcha tub sonlarni chiqarish.
+13. a sonini b marta ekranga chiqarish.
+14. Ikkita sonning EKUB (eng katta umumiy bo'luvchi) qiymatini topish.
+15. Kiritilgan N asosida "%" belgilaridan kvadrat ramka shaklini chiqarish.
+16. a sonining n-darajasini hisoblash (matematik kutubxonasiz).
+17. Ikkita sonning EKUK (eng kichik umumiy karrali) qiymatini topish.
+18. Kiritilgan N asosida N sonidan iborat ortib boruvchi qator shaklini chiqarish.
+19. Kiritilgan N asosida "+" belgilaridan olmossimon shaklini chiqarish.
+20. Kiritilgan N asosida ortib boruvchi sonlar qatoridan iborat shaklini chiqarish.
