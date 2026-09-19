@@ -1,6 +1,11 @@
+# Homeworks_OOP
 
-## Bank accaunt, Kinoteatr, Pizza ,Restoran;(OOP)
+Java OOP bo'yicha uy ishi.
 
-####  Buyerda men String,if  ,else if ,looplardan foydalandm.
+## homework nima bor
 
-#### Gofurova Nigora.
+Car_Task** — mashina ma'lumotlari va rangini o'zgartirish 
+Uchburchak_Task — katetlar bo'yicha gipotenuza, yuzi va perimetrni hisoblash
+Person_Task — inson ma'lumotlari va kasbini o'zgartirish
+Main_Run_Task — barchasini ishga tushiradigan asosiy klass
+
