@@ -3,10 +3,10 @@ package Homeworks__OOP;
 public class Asosiy_run {
 
     public static void main(String[] args) {
-        Student student1 = new Student("Aziz", 20, 3.5, 45);
-        Student student2 = new Student("Vali", 19, 1.5, 15);
+        Student student1 = new Student("Nigora", 20, 3.5, 45);
+        Student student2 = new Student("Ali", 19, 1.5, 15);
 
-        System.out.println("--- 1-talaba ---");
+        System.out.println("--- 1 talaba ---");
         System.out.println("Ism: " + student1.getName());
         System.out.println("Yosh: " + student1.getAge());
         System.out.println("GPA: " + student1.getGpa());
@@ -14,13 +14,13 @@ public class Asosiy_run {
         System.out.println("Kurs : " + student1.getGradeLevel());
         System.out.println("O'tyaptimi: " + student1.isPassing());
 
-        System.out.println("\n--- 2-talaba ---");
+        System.out.println("\n--- 2 talaba ---");
         System.out.println("Ism: " + student2.getName());
         System.out.println("GPA: " + student2.getGpa());
         System.out.println("Kurs : " + student2.getGradeLevel());
         System.out.println("O'tyaptimi: " + student2.isPassing());
 
-        System.out.println("\n--- Xato kiritish sinovi ---");
+        System.out.println("\n--- Xato kiritish  ---");
         Student student3 = new Student("Kamola", 25, 5.0, 20);
         System.out.println("Kiritilgan GPA: " + student3.getGpa());
     }

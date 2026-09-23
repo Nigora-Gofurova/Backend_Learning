@@ -67,10 +67,10 @@ public class Student {
         }
 
         public String getGradeLevel() {
-            if (credits < 30) return "Freshman";
-            else if (credits < 60) return "Sophomore";
-            else if (credits < 90) return "Junior";
-            else return "Senior";
+            if (credits < 30) return "first year student";
+            else if (credits < 60) return "second year student";
+            else if (credits < 90) return "third year student";
+            else return "4th year student";
         }
     }
 
