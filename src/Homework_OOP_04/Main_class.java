@@ -21,7 +21,7 @@ public class Main_class {
         product.setQuantity(2);
         System.out.println("Yangi miqdori: " + product.getQuantity());
 
-        // Validatsiyani sinaymiz shartimizni tori ishlayotganini bilish uchun
+        // Validatsiyani sinaymiz shartimizni tori ishlayotganini bilish uchun  validadtsa nima desangiz validatsa ozikiritgan malumotni tori yoki notogri ekanligini  tekshirish
         Product product2 = new Product("noutbuk", -1000, 2);
         System.out.println(product2);
 
